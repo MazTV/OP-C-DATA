@@ -1,3 +1,7 @@
 {
-  "dev":["BluZed", "-Maz"]
+  "dev":["BluZed", "-Maz"],
+  "vip":[],
+  "friends": ["sludislo"],
+  "contentcreators": [],
+  "booster": []
 }
